@@ -765,6 +765,9 @@ Your trip spans the **transition from hot/dry season to early monsoon**. Here's 
 
 ### 📍 Bangkok (Apr 10-13)
 
+![Wat Pho Reclining Buddha](https://commons.wikimedia.org/wiki/Special:FilePath/Wat_Pho,_Bangkok,_Thailand.jpg)
+*The iconic 46-metre Reclining Buddha at Wat Pho*
+
 #### 🛕 Grand Palace & Wat Phra Kaew
 - **What:** Thailand's most sacred site - former royal residence and Temple of the Emerald Buddha
 - **When:** Open 8:30 AM - 3:30 PM (last entry). Go at opening!
@@ -778,6 +781,10 @@ Your trip spans the **transition from hot/dry season to early monsoon**. Here's 
 - **⚠️ Pro Tips:** Get a massage here - birthplace of Thai massage! Walking distance from Grand Palace.
 
 #### 🛕 Wat Arun (Temple of Dawn)
+
+![Wat Arun at sunset](https://commons.wikimedia.org/wiki/Special:FilePath/Wat_Arun_at_Sunset.jpg)
+*The stunning Temple of Dawn on the Chao Phraya River*
+
 - **What:** Iconic riverside spire covered in colorful porcelain
 - **When:** 8 AM - 6 PM, stunning at sunset (viewed from across river)
 - **Cost:** 100 THB (~£2.5)
@@ -805,6 +812,9 @@ Your trip spans the **transition from hot/dry season to early monsoon**. Here's 
 
 ### 📍 Chiang Mai (Apr 13-15) - SONGKRAN!
 
+![Songkran Water Festival](https://commons.wikimedia.org/wiki/Special:FilePath/Songkran_in_Wat_Pho.jpg)
+*The joyful chaos of Thailand's Songkran Water Festival*
+
 #### 💦 Songkran Water Festival
 - **What:** Thai New Year = citywide water fight! Hotspots: Old City moat, Tha Phae Gate
 - **When:** All day, Apr 13-15 (peak: afternoons)
@@ -812,12 +822,20 @@ Your trip spans the **transition from hot/dry season to early monsoon**. Here's 
 - **⚠️ Pro Tips:** Waterproof ALL electronics. Quick-dry clothes. Aim below neck for monks/elderly.
 
 #### 🐘 Ethical Elephant Sanctuary
+
+![Elephants at Elephant Nature Park](https://commons.wikimedia.org/wiki/Special:FilePath/Elephant_nature_park.JPG)
+*Rescued elephants roaming freely at an ethical sanctuary*
+
 - **What:** Half/full day with rescued elephants in natural environment
 - **When:** Full day, book well in advance
 - **Cost:** 2,500-6,000 THB (~£57-£135) includes transport + food
 - **⚠️ ETHICAL WARNING:** ONLY choose sanctuaries that prohibit riding, painting, or performances. Recommended: Elephant Nature Park.
 
 #### ⛰️ Wat Phra That Doi Suthep
+
+![Doi Suthep Temple](https://commons.wikimedia.org/wiki/Special:FilePath/Wat_Phra_That_Doi_Suthep_01.jpg)
+*The golden chedi of Doi Suthep overlooking Chiang Mai*
+
 - **What:** Stunning golden temple on mountain with panoramic city views
 - **When:** Early morning (before 9 AM) or late afternoon for sunset
 - **Cost:** 30 THB (~£0.5) entrance | 40 THB (~£1) funicular | ~100-150 THB (~£2.5-£3.5) songthaew roundtrip
@@ -846,6 +864,9 @@ Your trip spans the **transition from hot/dry season to early monsoon**. Here's 
 
 ### 📍 Pai (Apr 16-17)
 
+![Pai Canyon at sunset](https://commons.wikimedia.org/wiki/Special:FilePath/Pai_Canyon,_Pai,_Thailand.jpg)
+*The stunning Pai Canyon with dramatic valley views*
+
 #### 🌅 Pai Canyon Sunset
 - **What:** Narrow ridges with panoramic valley views - stunning at sunset
 - **When:** Late afternoon (5-6:30 PM)
@@ -873,6 +894,9 @@ Your trip spans the **transition from hot/dry season to early monsoon**. Here's 
 ---
 
 ### 📍 Ao Nang & Phang Nga Bay (Apr 19-21)
+
+![Phang Nga Bay limestone karsts](https://commons.wikimedia.org/wiki/Special:FilePath/Phang_Nga_Bay_Thailand.jpg)
+*The dramatic limestone karsts of Phang Nga Bay*
 
 #### 🚤 Phang Nga Bay Tour (James Bond Island)
 - **What:** Full-day tour of limestone karsts, James Bond Island, sea caves, kayaking into hongs
@@ -903,6 +927,9 @@ Your trip spans the **transition from hot/dry season to early monsoon**. Here's 
 
 ### 📍 Koh Phi Phi (Apr 22-25)
 
+![Maya Bay, Koh Phi Phi](https://commons.wikimedia.org/wiki/Special:FilePath/Maya_Bay_Panorama.jpg)
+*Maya Bay - the iconic setting from "The Beach"*
+
 #### ⛵ Maya Bay & Phi Phi Leh Tour
 - **What:** The iconic bay from "The Beach" + snorkeling, Viking Cave, Monkey Beach
 - **When:** Early morning (depart 6-7 AM) for fewer crowds
@@ -924,6 +951,9 @@ Your trip spans the **transition from hot/dry season to early monsoon**. Here's 
 ---
 
 ### 📍 Railay Beach (Apr 26-28)
+
+![Rock climbing at Railay Beach](https://commons.wikimedia.org/wiki/Special:FilePath/Rock_climber_Phra_Nang_1.jpg)
+*World-class rock climbing on Railay's limestone cliffs*
 
 #### 🧗‍♀️ Rock Climbing
 - **What:** World-class climbing with routes for all levels - beginner courses available
@@ -952,6 +982,9 @@ Your trip spans the **transition from hot/dry season to early monsoon**. Here's 
 ---
 
 ### 📍 Khao Sok (Apr 29-May 1)
+
+![Cheow Lan Lake, Khao Sok](https://commons.wikimedia.org/wiki/Special:FilePath/Khao_Sok_National_Park,_Cheow_Lan_lake.jpg)
+*Cheow Lan Lake - floating bungalows among ancient limestone karsts*
 
 #### 🏡 Cheow Lan Lake Overnight (Floating Bungalows)
 - **What:** Surreal lake with towering karsts - stay in floating bungalow, includes boat safari, kayaking, cave visits
