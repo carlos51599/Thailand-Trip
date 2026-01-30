@@ -22,38 +22,62 @@ This itinerary focuses on Thailand's West Coast (Andaman Sea) during the tail en
 ![Bangkok Skyline](https://commons.wikimedia.org/wiki/Special:FilePath/Bangkok_Chao_Phraya_River.jpg)
 *Bangkok's iconic skyline along the Chao Phraya River*
 
-- ✈️ Arrive in Bangkok
+- ✈️ Arrive in Bangkok (8:00 AM arrival)
 - 🛏️ Settle in, adjust to time zone
-- 🍜 Light sightseeing and food exploration
+- 🍜 Sightseeing and food exploration
+- 🏛️ Grand Palace, Wat Pho, riverside dining
 
 ![Bangkok River](https://commons.wikimedia.org/wiki/Special:FilePath/Chao_Phraya_river_bangkok_Thailand_by_Don_Ramey_Logan.jpg)
 *Exploring Bangkok's vibrant riverside culture*
 
 ---
 
-## April 13–15: Chiang Mai (Songkran)
+## April 13: Songkran Day 1 in Bangkok
+
+💦 **Experience Songkran Day 1 in Bangkok's legendary party zones:**
+- 🎉 **Khao San Road** - Backpacker epicenter, massive water battles
+- 🎊 **Silom Road** - Office workers join the chaos, live music stages
+- 📱 Waterproof everything! Dry bag essential for phone/cash/passport
+- 🕒 Celebrations run all day (peak 2-8pm), wind down ~9-10pm
+
+---
+
+## April 14–15: Chiang Mai (Songkran Peak Days)
 
 ![Songkran Festival](https://commons.wikimedia.org/wiki/Special:FilePath/Songkran_Day_@_Chiangmai_Wall.jpg)
 *Songkran water festival celebrations at Chiang Mai*
 
-- ✈️ **Fly:** Bangkok (BKK) → Chiang Mai (CNX)
-- 💦 Songkran celebrations around the Old City moat
-- 🛕 Visit mountain temples (e.g. Doi Suthep)
+- ✈️ **Fly:** Bangkok → Chiang Mai (morning flight - arrive by noon)
+- 💦 April 14-15 are the **PEAK water fighting days** around the Old City moat
+- 🛕 Temples still accessible but expect splashing en route!
+- 🧤 **Gear:** Goggles (people use ice/powder), waterproof pouch, water sandals
 
 ![Doi Suthep Temple](https://commons.wikimedia.org/wiki/Special:FilePath/Sunset_doi_suthep_temple.jpg)
 *The golden spires of Wat Phra That Doi Suthep at sunset*
 
 ---
 
-## April 16–17: Pai (Mountain Escape)
+## April 16: Chiang Mai Adventure Day
+
+🧗 **Post-Songkran recovery & adventure activities:**
+- 🌊 **Canyoning / Waterfall Abseiling** (Samoeng area) - Full day adventure
+  - Abseil down waterfalls, jump into pools, natural rock slides
+  - Cost: 2,500-4,000 THB (~£57-£91)
+  - Book with reputable operators (e.g., 8Adventures, Chiang Mai Rock Climbing Adventures)
+- ⛰️ **Alternative:** Doi Suthep temple + Doi Inthanon day trip
+- 🥊 **Evening option:** Watch Muay Thai fight at Thapae Boxing Stadium
+
+---
+
+## April 17: Pai (Mountain Escape)
 
 ![Pai Valley](https://commons.wikimedia.org/wiki/Special:FilePath/Chiang_Mai_and_Doi_Suthep_Mountain_2017.jpg)
 *Lush green mountains of Northern Thailand in the hot season*
 
-- 🛵 Travel by moped or minivan: Chiang Mai → Pai (Route 1095)
-- 🏔️ Scenic mountain road with viewpoints and forests
-- ♨️ Hot springs, Pai Canyon, and slow evenings
-- 🧘 Focus on rest and nature after Songkran
+- 🛵 Travel by moped or minivan: Chiang Mai → Pai (Route 1095, ~3 hours)
+- 🏔️ Scenic mountain road with 762 curves and epic viewpoints
+- ♨️ Hot springs, Pai Canyon sunset hike
+- 🧘 Relaxation after Songkran intensity
 
 ![Pai Canyon](https://commons.wikimedia.org/wiki/Special:FilePath/Pai_Canyon.jpg)
 *Pai Canyon – narrow red-earth ridges with panoramic views*
@@ -83,7 +107,9 @@ This itinerary focuses on Thailand's West Coast (Andaman Sea) during the tail en
 
 - 🚤 Longtail boat or organised tour of Phang Nga Bay
 - 🏝️ Limestone karsts, lagoons, sea caves
-- 💡 **Pro tip:** Book a sunrise or early-morning tour to avoid crowds
+- � **Kayaking into hidden hongs** (lagoons inside limestone islands) - must do!
+- 🥾 **Hiking:** Tiger Cave Temple (Wat Tham Suea) - 1,260 steps to summit, incredible views
+- �💡 **Pro tip:** Book a sunrise or early-morning tour to avoid crowds
 
 ![James Bond Island](https://commons.wikimedia.org/wiki/Special:FilePath/James_Bond_Island_(2).jpg)
 *Ko Tapu (James Bond Island) – one of Thailand's most famous landmarks*
@@ -110,10 +136,12 @@ This itinerary focuses on Thailand's West Coast (Andaman Sea) during the tail en
 ![Railay Beach](https://commons.wikimedia.org/wiki/Special:FilePath/Railay_Beach_Limestone_Cliffs.jpg)
 *Railay Beach limestone cliffs – accessible only by boat*
 
-- 🚤 Boat access only from Ao Nang
-- 🏖️ Dramatic limestone cliffs and beaches
-- 🧗 World-class rock climbing
-- 🌅 Excellent sunsets
+- 🚤 Boat access only from Ao Nang (15 min longtail, ~200 THB)
+- 🏖️ Dramatic limestone cliffs and pristine beaches
+- 🧗 **World-class rock climbing** - half/full day courses available for beginners
+- 🥾 **Hiking:** Railay Viewpoint (challenging but rewarding) + Lagoon hike through jungle
+- 🛶 **Kayaking:** Rent kayak from beach, explore hidden caves & beaches
+- 🌅 Excellent sunsets from West Railay Beach
 
 ![West Railay Beach](https://commons.wikimedia.org/wiki/Special:FilePath/West_Railay_Beach_03.jpg)
 *West Railay Beach – world-renowned for climbing and scenery*
@@ -130,9 +158,13 @@ This itinerary focuses on Thailand's West Coast (Andaman Sea) during the tail en
 ![Khao Sok Lake](https://commons.wikimedia.org/wiki/Special:FilePath/Sunrise%20at%20Cheow%20Lan%20lake.jpg)
 *Sunrise over Cheow Lan Lake with limestone karsts*
 
-- 🚐 Travel inland via Surat Thani or from Krabi
-- 🏠 Stay in a floating raft house on Cheow Lan Lake
-- 🌿 Jungle scenery, limestone peaks, total calm
+- 🚐 Travel inland via Surat Thani or from Krabi (~2-3 hours)
+- 🏠 Stay in a **floating raft house** on Cheow Lan Lake (splurge night!)
+- 🌿 World's oldest evergreen rainforest, limestone peaks, total calm
+- 🛶 **Kayaking** on Cheow Lan Lake - paddle between towering karsts
+- 🥾 **Jungle trekking** - spot gibbons, hornbills, and possibly elephants
+- 🌅 **Sunrise/sunset from the lake** - unforgettable views
+- 🦇 **Night safari** or cave exploration tours available
 
 ![Khao Sok Jungle](https://commons.wikimedia.org/wiki/Special:FilePath/Khao_Sok%2C_Cheow_Lan_Lake%2C_Surat_Thani%2C_Thailand.jpg)
 *Cheow Lan Lake – ancient rainforest and dramatic limestone formations*
@@ -624,6 +656,19 @@ Your policy MUST cover:
 - **Cost:** 1,000-2,000 THB (~£23-£45)
 - **⚠️ Pro Tips:** Choose one with market tour. You'll eat what you cook!
 
+### 🌊 Canyoning / Waterfall Abseiling
+- **What:** Abseil down waterfalls, jump into pools, slide down natural rock formations - pure adrenaline!
+- **When:** Full day (typically 7am-5pm), book 1+ day ahead
+- **Cost:** 2,500-4,000 THB (~£57-£91) including transport, lunch, gear
+- **⚠️ Pro Tips:** Need reasonable fitness. Wear shoes that can get wet (or rent). Operators provide all safety gear.
+- **Recommended:** 8Adventures, Chiang Mai Rock Climbing Adventures, or Doi Inthanon operators
+
+### 🥊 Muay Thai Experience
+- **What:** Watch authentic fights at local stadiums, or try a beginner training session
+- **When:** Fights typically evening (8pm+), training morning or afternoon
+- **Cost:** Spectator 300-600 THB (~£7-£14) | Training class 500-1,500 THB (~£11-£34)
+- **⚠️ Pro Tips:** Thapae Boxing Stadium for fights. Many gyms offer single-day sessions for tourists.
+
 ---
 
 ## 📍 Pai (Apr 16-17)
@@ -674,6 +719,13 @@ Your policy MUST cover:
 - **Cost:** 800-1,500 THB (~£18-£34) guided tour
 - **⚠️ Pro Tips:** Quieter alternative to busy boat tours. Bring insect repellent.
 
+### 🥾 Tiger Cave Temple (Wat Tham Suea)
+- **What:** Challenging 1,260-step climb to summit with 360° views - one of the best hikes in Thailand
+- **When:** Early morning (6-8am) to avoid midday heat
+- **Cost:** Free
+- **⚠️ Pro Tips:** Bring 2+ liters of water. Allow 1.5-2 hours up and down. Incredible views from top!
+- **Alternative:** Just visit the temple complex and caves at the base if you skip the climb
+
 ---
 
 ## 📍 Koh Phi Phi (Apr 22-25)
@@ -718,6 +770,12 @@ Your policy MUST cover:
 - **Cost:** Free
 - **⚠️ Pro Tips:** VERY muddy and steep - requires ropes. Wear proper shoes (NO flip-flops). Not for mobility issues.
 
+### 🛶 Kayaking from Railay
+- **What:** Rent kayak from beach, explore hidden caves, secluded beaches, and mangroves
+- **When:** Morning (calmer seas) or late afternoon
+- **Cost:** 200-400 THB (~£4.5-£9) per hour rental
+- **⚠️ Pro Tips:** Paddle to Phra Nang Cave Beach or explore cliffs east toward Ton Sai. Life jacket recommended.
+
 ### 🌅 Sunset at West Railay Beach
 - **What:** Stunning sunsets over Andaman Sea, often with fire shows
 - **When:** 5:30-7 PM
@@ -745,6 +803,18 @@ Your policy MUST cover:
 - **When:** 6-7:30 AM
 - **Cost:** Usually included in overnight package
 - **⚠️ Pro Tips:** Don't sleep through this - silence and beauty are profound.
+
+### 🛶 Lake Kayaking
+- **What:** Paddle between towering limestone karsts on the mirror-calm lake
+- **When:** Early morning (mirror-like reflections) or late afternoon
+- **Cost:** Usually included in overnight package, or ~500 THB (~£11) rental
+- **⚠️ Pro Tips:** The scale of the karsts is staggering when you're at water level. Bring waterproof camera!
+
+### 🦇 Cave Exploration
+- **What:** Explore limestone caves with stalactites/stalagmites, some with bats
+- **When:** Usually part of lake tour packages
+- **Cost:** Included in overnight packages
+- **⚠️ Pro Tips:** Bring headlamp if you have one. Watch your head!
 
 ---
 
