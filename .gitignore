@@ -1,0 +1,15 @@
+# Ignore test files
+_tests/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Logs
+_logs/
+*.log
