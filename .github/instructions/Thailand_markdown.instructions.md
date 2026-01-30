@@ -190,6 +190,34 @@ Avoid filenames with spaces, commas, parentheses, or special characters when pos
 ✅ **Right:** Check the EXACT filename on Wikimedia Commons and URL-encode spaces as `%20`
 ---
 
+## Currency Display Requirements (MANDATORY)
+
+All costs and prices in the itinerary **MUST** be displayed in both currencies:
+
+### Format
+```
+[Amount] THB (~£[GBP equivalent])
+```
+
+### Exchange Rate
+Use approximate rate: **1 GBP = 44 THB** (verify current rate before final editing)
+
+### Examples
+| Context | Format |
+|---------|--------|
+| Single price | `200 THB (~£4.50)` |
+| Price range | `500-800 THB (~£11-18)` |
+| Daily budget | `2,000 THB (~£45)/day` |
+| Per person | `1,500 THB (~£34)/person` |
+
+### Rules
+1. THB comes first (local currency), GBP in parentheses
+2. GBP uses `~£` prefix to indicate approximation
+3. Round GBP to nearest 50p for amounts under £10, nearest £1 for larger amounts
+4. Keep the same format throughout the document
+
+---
+
 ## Quality Standards Summary
 
 | Requirement | Priority | Notes |

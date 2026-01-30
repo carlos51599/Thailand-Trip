@@ -375,9 +375,9 @@ Your policy MUST cover:
 
 | Budget | Area | Price/Night | Key Features |
 |--------|------|-------------|--------------|
-| 🎒 **Backpacker** | Khao San Road, Sukhumvit Soi 11-20 | 300-600 THB | Social, near temples (Khao San) or BTS (Sukhumvit) |
-| 💼 **Mid-range** | Sukhumvit, Silom, Riverside | 1,200-2,500 THB | Pool, near BTS/MRT, breakfast often included |
-| 💎 **Splurge** | Riverside, Siam | 3,500-8,000+ THB | River views, infinity pools, world-class service |
+| 🎒 **Backpacker** | Khao San Road, Sukhumvit Soi 11-20 | 300-600 THB (~£7-£14) | Social, near temples (Khao San) or BTS (Sukhumvit) |
+| 💼 **Mid-range** | Sukhumvit, Silom, Riverside | 1,200-2,500 THB (~£27-£57) | Pool, near BTS/MRT, breakfast often included |
+| 💎 **Splurge** | Riverside, Siam | 3,500-8,000+ THB (~£80-£180+) | River views, infinity pools, world-class service |
 
 **Tip:** For departure day (May 2-4), consider staying near **Phaya Thai** for easy Airport Rail Link access.
 
@@ -385,9 +385,9 @@ Your policy MUST cover:
 
 | Budget | Area | Price/Night | Key Features |
 |--------|------|-------------|--------------|
-| 🎒 **Backpacker** | Inside Old City, Nimmanhaemin | 400-900 THB | Center of Songkran action, social |
-| 💼 **Mid-range** | Old City, Nimman, Riverside | 1,500-3,500 THB | Pool essential, comfortable escape from festivities |
-| 💎 **Splurge** | Riverside, Foothills | 4,000-10,000+ THB | Tranquil retreat, shuttle to Old City for festivities |
+| 🎒 **Backpacker** | Inside Old City, Nimmanhaemin | 400-900 THB (~£9-£20) | Center of Songkran action, social |
+| 💼 **Mid-range** | Old City, Nimman, Riverside | 1,500-3,500 THB (~£34-£80) | Pool essential, comfortable escape from festivities |
+| 💎 **Splurge** | Riverside, Foothills | 4,000-10,000+ THB (~£91-£225+) | Tranquil retreat, shuttle to Old City for festivities |
 
 **Critical:** A hotel with a good **pool** will be your sanctuary during the hot afternoons.
 
@@ -395,9 +395,9 @@ Your policy MUST cover:
 
 | Budget | Area | Price/Night | Key Features |
 |--------|------|-------------|--------------|
-| 🎒 **Backpacker** | Near Walking Street, Along river | 300-600 THB | Social, easy walk to attractions |
-| 💼 **Mid-range** | Along Pai River, Short drive from town | 800-2,000 THB | Bungalows with balconies, peaceful setting |
-| 💎 **Splurge** | Hillside resorts | 2,500-6,000+ THB | Valley views, infinity pools, seclusion |
+| 🎒 **Backpacker** | Near Walking Street, Along river | 300-600 THB (~£7-£14) | Social, easy walk to attractions |
+| 💼 **Mid-range** | Along Pai River, Short drive from town | 800-2,000 THB (~£18-£45) | Bungalows with balconies, peaceful setting |
+| 💎 **Splurge** | Hillside resorts | 2,500-6,000+ THB (~£57-£135+) | Valley views, infinity pools, seclusion |
 
 **Tip:** Most places are 5-10 min scooter ride from town - confirm if shuttle provided.
 
@@ -405,17 +405,17 @@ Your policy MUST cover:
 
 | Budget | Area | Price/Night | Key Features |
 |--------|------|-------------|--------------|
-| 🎒 **Backpacker** | Near Ao Nang Beach Road | 400-800 THB | Near boat departures and food |
-| 💼 **Mid-range** | Ao Nang Beach Road, Nopparat Thara | 1,200-2,800 THB | Pool, close to dining, easy tour access |
-| 💎 **Splurge** | Klong Muang Beach (15-20 min away) | 4,000-12,000+ THB | Quieter, upscale beachfront |
+| 🎒 **Backpacker** | Near Ao Nang Beach Road | 400-800 THB (~£9-£18) | Near boat departures and food |
+| 💼 **Mid-range** | Ao Nang Beach Road, Nopparat Thara | 1,200-2,800 THB (~£27-£64) | Pool, close to dining, easy tour access |
+| 💎 **Splurge** | Klong Muang Beach (15-20 min away) | 4,000-12,000+ THB (~£91-£275+) | Quieter, upscale beachfront |
 
 ## Koh Phi Phi (April 22-25)
 
 | Budget | Area | Price/Night | Key Features |
 |--------|------|-------------|--------------|
-| 🎒 **Backpacker** | Loh Dalum (party), Tonsai Village | 500-1,000 THB | Social, nightlife, noisy |
-| 💼 **Mid-range** | Tonsai (off main drag), Long Beach | 1,500-3,500 THB | Quieter, small pools, accessible |
-| 💎 **Splurge** | North Phi Phi, Laem Tong Beach | 5,000-15,000+ THB | Private beaches, boat access only, secluded |
+| 🎒 **Backpacker** | Loh Dalum (party), Tonsai Village | 500-1,000 THB (~£11-£23) | Social, nightlife, noisy |
+| 💼 **Mid-range** | Tonsai (off main drag), Long Beach | 1,500-3,500 THB (~£34-£80) | Quieter, small pools, accessible |
+| 💎 **Splurge** | North Phi Phi, Laem Tong Beach | 5,000-15,000+ THB (~£115-£340+) | Private beaches, boat access only, secluded |
 
 **Warning:** Loh Dalum = loud beach parties until late. Choose wisely if you value sleep.
 
@@ -423,9 +423,9 @@ Your policy MUST cover:
 
 | Budget | Area | Price/Night | Key Features |
 |--------|------|-------------|--------------|
-| 🎒 **Backpacker** | Railay East, Tonsai Beach | 400-900 THB | Basic bungalows, near climbing (Tonsai) |
-| 💼 **Mid-range** | Railay West | 1,800-4,000 THB | Near swimming beach, sunset views, pools |
-| 💎 **Splurge** | Railay West beachfront | 5,000-15,000+ THB | Beachfront, karst views, excellent amenities |
+| 🎒 **Backpacker** | Railay East, Tonsai Beach | 400-900 THB (~£9-£20) | Basic bungalows, near climbing (Tonsai) |
+| 💼 **Mid-range** | Railay West | 1,800-4,000 THB (~£41-£91) | Near swimming beach, sunset views, pools |
+| 💎 **Splurge** | Railay West beachfront | 5,000-15,000+ THB (~£115-£340+) | Beachfront, karst views, excellent amenities |
 
 **Note:** Railay has limited options - book ahead. Railay East is mangrove (not swimmable).
 
@@ -433,9 +433,9 @@ Your policy MUST cover:
 
 | Budget | Type | Price/Night | Key Features |
 |--------|------|-------------|--------------|
-| 🎒 **Backpacker** | Village guesthouses | 400-800 THB | Basic fan bungalows, near park entrance |
-| 💼 **Mid-range** | Treehouses / Basic floating bungalows | 1,500-3,000 THB | Unique stays, lake packages include meals/tours |
-| 💎 **Splurge** | Luxury floating bungalows | 4,000-8,000+ THB | Private bathroom, AC, full-board, guided tours |
+| 🎒 **Backpacker** | Village guesthouses | 400-800 THB (~£9-£18) | Basic fan bungalows, near park entrance |
+| 💼 **Mid-range** | Treehouses / Basic floating bungalows | 1,500-3,000 THB (~£34-£68) | Unique stays, lake packages include meals/tours |
+| 💎 **Splurge** | Luxury floating bungalows | 4,000-8,000+ THB (~£91-£180+) | Private bathroom, AC, full-board, guided tours |
 
 **Highlight:** Cheow Lan Lake **overnight floating bungalow** is the must-do experience here. Usually includes boat safari, kayaking, meals.
 
@@ -450,21 +450,21 @@ Your policy MUST cover:
 **BKK (Suvarnabhumi):**
 | Option              | Pros                                     | Cons                                | Cost                         |
 | ------------------- | ---------------------------------------- | ----------------------------------- | ---------------------------- |
-| 🚄 Airport Rail Link | Cheap, fast (25-30 mins), avoids traffic | May need further transport to hotel | 45-50 THB (~$1.25)           |
-| 🚕 Metered Taxi      | Door-to-door, good for groups            | Traffic dependent, insist on meter  | 300-500 THB (~$8-14) + tolls |
-| 📱 Grab/Bolt         | Fixed price upfront, trackable           | Surge pricing, confusing pickup     | 300-600 THB (~$8-17)         |
+| 🚄 Airport Rail Link | Cheap, fast (25-30 mins), avoids traffic | May need further transport to hotel | 45-50 THB (~£1-£1)           |
+| 🚕 Metered Taxi      | Door-to-door, good for groups            | Traffic dependent, insist on meter  | 300-500 THB (~£7-£11) + tolls |
+| 📱 Grab/Bolt         | Fixed price upfront, trackable           | Surge pricing, confusing pickup     | 300-600 THB (~£7-£14)         |
 
 **DMK (Don Mueang):**
-- 🚌 Airport Bus (A1, A2): 30 THB to Mo Chit BTS/MRT
+- 🚌 Airport Bus (A1, A2): 30 THB (~£0.5) to Mo Chit BTS/MRT
 - 🚕 Metered Taxi/Grab: Usually cheaper than BKK
 
 ### Chiang Mai (CNX)
-- 🚕 Fixed-rate airport taxi: 150-200 THB to city center
+- 🚕 Fixed-rate airport taxi: 150-200 THB (~£3.5-£4.5) to city center
 - Many hotels offer airport pickup
 
 ### Krabi (KBV)
-- 🚌 Airport bus to Ao Nang: 150-200 THB
-- 🚕 Private taxi to Ao Nang: 500-700 THB
+- 🚌 Airport bus to Ao Nang: 150-200 THB (~£3.5-£4.5)
+- 🚕 Private taxi to Ao Nang: 500-700 THB (~£11-£16)
 
 ---
 
@@ -473,9 +473,9 @@ Your policy MUST cover:
 | Transport        | Where Available            | Cost            | Tips                                       |
 | ---------------- | -------------------------- | --------------- | ------------------------------------------ |
 | 📱 **Grab/Bolt**  | Bangkok, Chiang Mai, Krabi | Varies          | Best option - fixed prices, no negotiation |
-| 🛺 **Tuk-Tuks**   | Bangkok, Chiang Mai, Krabi | 50-200 THB      | Always negotiate price BEFORE getting in   |
-| 🚌 **Songthaews** | Chiang Mai, Krabi          | 30-50 THB       | Red trucks, shared routes                  |
-| 🛵 **Scooters**   | Pai, Ao Nang               | 200-300 THB/day | ⚠️ HIGH RISK - experienced riders only      |
+| 🛺 **Tuk-Tuks**   | Bangkok, Chiang Mai, Krabi | 50-200 THB (~£1-£4.5)      | Always negotiate price BEFORE getting in   |
+| 🚌 **Songthaews** | Chiang Mai, Krabi          | 30-50 THB (~£0.5-£1)       | Red trucks, shared routes                  |
+| 🛵 **Scooters**   | Pai, Ao Nang               | 200-300 THB (~£4.5-£7)/day | ⚠️ HIGH RISK - experienced riders only      |
 
 **⚠️ Scooter Warning:** Thailand has extremely high motorcycle accident rates. Only rent if you're experienced AND have an International Driving Permit. Take photos of damage before renting. Never leave your passport as deposit.
 
@@ -508,51 +508,51 @@ Your policy MUST cover:
 ### Bangkok → Chiang Mai (April 13)
 | Option                     | Time      | Cost             | Notes                             |
 | -------------------------- | --------- | ---------------- | --------------------------------- |
-| ✈️ **Flight (Recommended)** | 1.5 hrs   | 1,500-4,000+ THB | Book MONTHS ahead for Songkran    |
-| 🚂 Overnight Train          | 11-15 hrs | 800-1,800 THB    | 2nd class sleeper sells out fast  |
-| 🚌 VIP Bus                  | 10-12 hrs | 600-900 THB      | ❌ Not recommended during Songkran |
+| ✈️ **Flight (Recommended)** | 1.5 hrs   | 1,500-4,000+ THB (~£34-£91+) | Book MONTHS ahead for Songkran    |
+| 🚂 Overnight Train          | 11-15 hrs | 800-1,800 THB (~£18-£41)    | 2nd class sleeper sells out fast  |
+| 🚌 VIP Bus                  | 10-12 hrs | 600-900 THB (~£14-£20)      | ❌ Not recommended during Songkran |
 
 ### Chiang Mai → Pai (April 16)
 | Option                      | Time      | Cost            | Notes                                  |
 | --------------------------- | --------- | --------------- | -------------------------------------- |
-| 🚐 **Minivan (Recommended)** | 3-3.5 hrs | 150-200 THB     | 762 curves - take motion sickness meds |
-| 🛵 Scooter                   | 3-4 hrs   | 200-300 THB/day | Experienced riders only                |
+| 🚐 **Minivan (Recommended)** | 3-3.5 hrs | 150-200 THB (~£3.5-£4.5)     | 762 curves - take motion sickness meds |
+| 🛵 Scooter                   | 3-4 hrs   | 200-300 THB (~£4.5-£7)/day | Experienced riders only                |
 
 ### Pai → Krabi (April 18) - Major Travel Day
 | Leg                        | Time           | Cost                 | Notes                          |
 | -------------------------- | -------------- | -------------------- | ------------------------------ |
-| 🚐 Pai → Chiang Mai minivan | 3-3.5 hrs      | 150-200 THB          | Leave 7-8 AM                   |
-| 🚕 To CNX Airport           | 30-45 mins     | 150-200 THB          |                                |
-| ✈️ CNX → KBV flight         | 2 hrs          | 2,000-4,500 THB      | Book in advance                |
-| 🚌 KBV → Ao Nang            | 45-60 mins     | 150-250 THB          |                                |
-| **TOTAL**                  | **~10-12 hrs** | **~2,500-5,000 THB** | Allow 3-4 hr buffer at airport |
+| 🚐 Pai → Chiang Mai minivan | 3-3.5 hrs      | 150-200 THB (~£3.5-£4.5)          | Leave 7-8 AM                   |
+| 🚕 To CNX Airport           | 30-45 mins     | 150-200 THB (~£3.5-£4.5)          |                                |
+| ✈️ CNX → KBV flight         | 2 hrs          | 2,000-4,500 THB (~£45-£100)      | Book in advance                |
+| 🚌 KBV → Ao Nang            | 45-60 mins     | 150-250 THB (~£3.5-£5.5)          |                                |
+| **TOTAL**                  | **~10-12 hrs** | **~2,500-5,000 THB (~£57-£115)** | Allow 3-4 hr buffer at airport |
 
 ### Ao Nang → Koh Phi Phi (April 22)
 | Option      | Time       | Cost        | Notes              |
 | ----------- | ---------- | ----------- | ------------------ |
-| ⛴️ **Ferry** | 1.5-2 hrs  | 400-600 THB | More stable        |
-| 🚤 Speedboat | 45-60 mins | 600-800 THB | Faster but bumpier |
+| ⛴️ **Ferry** | 1.5-2 hrs  | 400-600 THB (~£9-£14) | More stable        |
+| 🚤 Speedboat | 45-60 mins | 600-800 THB (~£14-£18) | Faster but bumpier |
 
 ### Koh Phi Phi → Railay Beach (April 26)
 | Leg                  | Time             | Cost             | Notes                        |
 | -------------------- | ---------------- | ---------------- | ---------------------------- |
-| ⛴️ Ferry to Ao Nang   | 1-2 hrs          | 400-600 THB      |                              |
-| 🚤 Longtail to Railay | 15 mins          | 100-200 THB      | Need 8 passengers or charter |
-| **TOTAL**            | **~2.5-3.5 hrs** | **~500-800 THB** | Longtails stop at sunset     |
+| ⛴️ Ferry to Ao Nang   | 1-2 hrs          | 400-600 THB (~£9-£14)      |                              |
+| 🚤 Longtail to Railay | 15 mins          | 100-200 THB (~£2.5-£4.5)      | Need 8 passengers or charter |
+| **TOTAL**            | **~2.5-3.5 hrs** | **~500-800 THB (~£11-£18)** | Longtails stop at sunset     |
 
 ### Railay Beach → Khao Sok (April 29)
 | Leg                   | Time         | Cost               | Notes                          |
 | --------------------- | ------------ | ------------------ | ------------------------------ |
-| 🚤 Longtail to Ao Nang | 15 mins      | 100-200 THB        | Leave early (7-8 AM)           |
-| 🚐 Minivan to Khao Sok | 3-4 hrs      | 500-800 THB        | Book combined ticket in Railay |
-| **TOTAL**             | **~4-5 hrs** | **~600-1,000 THB** |                                |
+| 🚤 Longtail to Ao Nang | 15 mins      | 100-200 THB (~£2.5-£4.5)        | Leave early (7-8 AM)           |
+| 🚐 Minivan to Khao Sok | 3-4 hrs      | 500-800 THB (~£11-£18)        | Book combined ticket in Railay |
+| **TOTAL**             | **~4-5 hrs** | **~600-1,000 THB (~£14-£23)** |                                |
 
 ### Khao Sok → Bangkok (May 2)
 | Leg                            | Time         | Cost                 | Notes                     |
 | ------------------------------ | ------------ | -------------------- | ------------------------- |
-| 🚐 Minivan to Surat Thani (URT) | 1.5-2 hrs    | 300-500 THB          | Arrange via accommodation |
-| ✈️ URT → BKK/DMK flight         | 1-1.5 hrs    | 1,200-3,500 THB      | Book in advance           |
-| **TOTAL**                      | **~5-6 hrs** | **~1,500-4,000 THB** |                           |
+| 🚐 Minivan to Surat Thani (URT) | 1.5-2 hrs    | 300-500 THB (~£7-£11)          | Arrange via accommodation |
+| ✈️ URT → BKK/DMK flight         | 1-1.5 hrs    | 1,200-3,500 THB (~£27-£80)      | Book in advance           |
+| **TOTAL**                      | **~5-6 hrs** | **~1,500-4,000 THB (~£34-£91)** |                           |
 
 ---
 
@@ -575,19 +575,19 @@ Your policy MUST cover:
 ### 🕌 Grand Palace, Wat Pho & Wat Arun
 - **What:** Thailand's most revered temples - the Grand Palace with Emerald Buddha, Wat Pho's Reclining Buddha, Wat Arun's riverside spires
 - **When:** Early morning (8:30-10 AM) to avoid crowds and heat
-- **Cost:** Grand Palace 500 THB | Wat Pho 200 THB | Wat Arun 100 THB
+- **Cost:** Grand Palace 500 THB (~£11) | Wat Pho 200 THB (~£4.5) | Wat Arun 100 THB (~£2.5)
 - **⚠️ Pro Tips:** Dress modestly (shoulders and knees covered). Ignore "temple is closed" scammers.
 
 ### 🍜 Yaowarat (Chinatown) Street Food
 - **What:** One of the world's best street food scenes - seafood, noodles, Thai desserts
 - **When:** Evening (6-10 PM) when stalls come alive
-- **Cost:** 50-200 THB per dish
+- **Cost:** 50-200 THB (~£1-£4.5) per dish
 - **⚠️ Pro Tips:** Look for queues - usually means quality. Explore smaller sois (alleys).
 
 ### 🍸 Rooftop Bar Sunset
 - **What:** Sky Bar (Lebua), Octave, or Mahanakhon SkyWalk for skyline views
 - **When:** Pre-sunset (5-7 PM) for golden hour
-- **Cost:** 300-600+ THB per drink
+- **Cost:** 300-600+ THB (~£7-£14+) per drink
 - **⚠️ Pro Tips:** Check dress code (no shorts/flip-flops). Book tables for weekends.
 
 ### 🛍️ Jodd Fairs Night Market
@@ -603,25 +603,25 @@ Your policy MUST cover:
 ### 💦 Songkran Water Festival
 - **What:** Thai New Year = citywide water fight! Hotspots: Old City moat, Tha Phae Gate
 - **When:** All day, Apr 13-15 (peak: afternoons)
-- **Cost:** Water guns 100-500 THB
+- **Cost:** Water guns 100-500 THB (~£2.5-£11)
 - **⚠️ Pro Tips:** Waterproof ALL electronics. Quick-dry clothes. Aim below neck for monks/elderly.
 
 ### 🐘 Ethical Elephant Sanctuary
 - **What:** Half/full day with rescued elephants in natural environment
 - **When:** Full day, book well in advance
-- **Cost:** 2,500-6,000 THB (includes transport, food)
+- **Cost:** 2,500-6,000 THB (~£57-£135) (includes transport, food)
 - **⚠️ ETHICAL WARNING:** ONLY choose sanctuaries that prohibit riding, painting, or performances. Recommended: Elephant Nature Park.
 
 ### ⛰️ Wat Phra That Doi Suthep
 - **What:** Stunning golden temple on mountain with panoramic city views
 - **When:** Early morning (before 9 AM) or late afternoon for sunset
-- **Cost:** 30 THB entrance | 40 THB funicular | ~100-150 THB songthaew roundtrip
+- **Cost:** 30 THB (~£0.5) entrance | 40 THB (~£1) funicular | ~100-150 THB (~£2.5-£3.5) songthaew roundtrip
 - **⚠️ Pro Tips:** 300+ steps - or take the funicular. Dress modestly.
 
 ### 🧑‍🍳 Thai Cooking Class
 - **What:** Hands-on cooking 3-5 hours, often with market tour
 - **When:** Morning or afternoon
-- **Cost:** 1,000-2,000 THB
+- **Cost:** 1,000-2,000 THB (~£23-£45)
 - **⚠️ Pro Tips:** Choose one with market tour. You'll eat what you cook!
 
 ---
@@ -637,7 +637,7 @@ Your policy MUST cover:
 ### 💦 Pam Bok Waterfall & Sai Ngam Hot Springs
 - **What:** Refreshing waterfall + natural hot pools in jungle setting
 - **When:** Morning/late afternoon for hot springs
-- **Cost:** Waterfall free | Hot Springs ~300 THB
+- **Cost:** Waterfall free | Hot Springs ~300 THB (~£7)
 - **⚠️ Pro Tips:** Bring swimwear and towel for hot springs.
 
 ### 🙏 Wat Phra That Mae Yen (Big Buddha)
@@ -649,7 +649,7 @@ Your policy MUST cover:
 ### 🛍️ Pai Night Walking Street
 - **What:** Street food, crafts, live music, local atmosphere
 - **When:** Evening (6-10 PM)
-- **Cost:** 50-200 THB per item
+- **Cost:** 50-200 THB (~£1-£4.5) per item
 - **⚠️ Pro Tips:** Try local specialties. Gets crowded!
 
 ---
@@ -659,19 +659,19 @@ Your policy MUST cover:
 ### 🚤 Phang Nga Bay Tour (James Bond Island)
 - **What:** Full-day tour of limestone karsts, James Bond Island, sea caves, kayaking into hongs
 - **When:** Full day (8 AM - 5 PM)
-- **Cost:** 1,500-3,000 THB (usually includes lunch)
+- **Cost:** 1,500-3,000 THB (~£34-£68) (usually includes lunch)
 - **⚠️ Pro Tips:** Book one that includes kayaking into sea caves - unique experience! Very crowded at James Bond Island.
 
 ### 🏝️ Four Islands Tour
 - **What:** Island hopping - Poda, Chicken Island, Tup Island, Phra Nang Cave Beach
 - **When:** Depart 8-9 AM
-- **Cost:** 500-1,500 THB + 400 THB national park fee
+- **Cost:** 500-1,500 THB (~£11-£34) + 400 THB (~£9) national park fee
 - **⚠️ Pro Tips:** At low tide, sandbar connects Tup and Chicken Islands. Bring sunscreen!
 
 ### 🛶 Kayaking in Ao Thalane
 - **What:** Tranquil mangrove forest and canyon kayaking, spot monkeys
 - **When:** Morning or late afternoon
-- **Cost:** 800-1,500 THB guided tour
+- **Cost:** 800-1,500 THB (~£18-£34) guided tour
 - **⚠️ Pro Tips:** Quieter alternative to busy boat tours. Bring insect repellent.
 
 ---
@@ -681,19 +681,19 @@ Your policy MUST cover:
 ### ⛵ Maya Bay & Phi Phi Leh Tour
 - **What:** The iconic bay from "The Beach" + snorkeling, Viking Cave, Monkey Beach
 - **When:** Early morning (depart 6-7 AM) for fewer crowds
-- **Cost:** 1,000-2,000 THB + 400 THB park fee
+- **Cost:** 1,000-2,000 THB (~£23-£45) + 400 THB (~£9) park fee
 - **⚠️ CONSERVATION RULES:** No swimming in Maya Bay itself (designated swimming area only). Use reef-safe sunscreen. Don't touch coral.
 
 ### 📸 Phi Phi Viewpoint
 - **What:** Panoramic views of Tonsai Village and twin bays - the postcard shot
 - **When:** Late afternoon (4-5:30 PM) for sunset
-- **Cost:** ~30 THB entrance
+- **Cost:** ~30 THB (~£0.5) entrance
 - **⚠️ Pro Tips:** Steep climb - good shoes, lots of water needed.
 
 ### 🐠 Snorkeling/Diving
 - **What:** Vibrant marine life at Bamboo Island, Shark Point, Mosquito Island
 - **When:** Full day tours or morning dives
-- **Cost:** Snorkeling 800-1,500 THB | Discover Diving 2,500-4,000 THB
+- **Cost:** Snorkeling 800-1,500 THB (~£18-£34) | Discover Diving 2,500-4,000 THB (~£57-£91)
 - **⚠️ ETHICS:** Never stand on or touch coral. Keep distance from marine life.
 
 ---
@@ -703,7 +703,7 @@ Your policy MUST cover:
 ### 🧗‍♀️ Rock Climbing
 - **What:** World-class climbing with routes for all levels - beginner courses available
 - **When:** Half-day (morning 9 AM-1 PM or afternoon 2-6 PM)
-- **Cost:** 1,000-2,500 THB for beginner half-day
+- **Cost:** 1,000-2,500 THB (~£23-£57) for beginner half-day
 - **⚠️ Pro Tips:** Book certified school. Views from top are incredible!
 
 ### 🏖️ Phra Nang Cave Beach
@@ -731,13 +731,13 @@ Your policy MUST cover:
 ### 🏡 Cheow Lan Lake Overnight (Floating Bungalows)
 - **What:** Surreal lake with towering karsts - stay in floating bungalow, includes boat safari, kayaking, cave visits
 - **When:** Full day + overnight (depart Day 1 morning, return Day 2 afternoon)
-- **Cost:** 2,500-5,000+ THB all-inclusive
+- **Cost:** 2,500-5,000+ THB (~£57-£115+) all-inclusive
 - **⚠️ Pro Tips:** HIGHLIGHT OF SOUTHERN THAILAND - truly unique. Book reputable operator from Khao Sok Village. Pack light, waterproof your stuff.
 
 ### 🐒 Jungle Trekking & Wildlife
 - **What:** Ancient rainforest with guides - spot gibbons, hornbills, possibly elephants
 - **When:** Early morning or late afternoon for wildlife
-- **Cost:** 800-1,500 THB guided trek (often included in overnight)
+- **Cost:** 800-1,500 THB (~£18-£34) guided trek (often included in overnight)
 - **⚠️ ETHICS:** Keep distance from wildlife, don't feed animals, leave no trace.
 
 ### 🚣‍♀️ Dawn Lake Safari
@@ -755,34 +755,34 @@ Your policy MUST cover:
 ### Bangkok
 | Dish                    | Description                          | Where to Find                       | Price          |
 | ----------------------- | ------------------------------------ | ----------------------------------- | -------------- |
-| 🍜 **Pad Thai**          | Stir-fried rice noodles, shrimp, egg | Thip Samai (legendary)              | 80-150 THB     |
-| 🍲 **Tom Yum Goong**     | Spicy-sour shrimp soup               | Jay Fai (Michelin star street food) | 400-1,600 THB  |
-| 🥢 **Khao Man Gai**      | Hainanese chicken rice               | Go-Ang Pratunam                     | 50-80 THB      |
-| 🦀 **Pu Pad Pong Curry** | Stir-fried crab in curry             | T&K Seafood, Chinatown              | 200-400 THB    |
-| 🍢 **Moo Ping**          | Grilled pork skewers                 | Any morning market                  | 10-20 THB each |
+| 🍜 **Pad Thai**          | Stir-fried rice noodles, shrimp, egg | Thip Samai (legendary)              | 80-150 THB (~£2-£3.5)     |
+| 🍲 **Tom Yum Goong**     | Spicy-sour shrimp soup               | Jay Fai (Michelin star street food) | 400-1,600 THB (~£9-£36)  |
+| 🥢 **Khao Man Gai**      | Hainanese chicken rice               | Go-Ang Pratunam                     | 50-80 THB (~£1-£2)      |
+| 🦀 **Pu Pad Pong Curry** | Stir-fried crab in curry             | T&K Seafood, Chinatown              | 200-400 THB (~£4.5-£9)    |
+| 🍢 **Moo Ping**          | Grilled pork skewers                 | Any morning market                  | 10-20 THB (~£0-£0.5) each |
 
 ### Chiang Mai
 | Dish                 | Description                       | Where to Find     | Price      |
 | -------------------- | --------------------------------- | ----------------- | ---------- |
-| 🍛 **Khao Soi**       | Northern curry noodles - MUST TRY | Khao Soi Khun Yai | 50-80 THB  |
-| 🌭 **Sai Oua**        | Northern spicy sausage            | Warorot Market    | 40-80 THB  |
-| 🥬 **Larb Moo**       | Spicy minced pork salad           | Huen Phen         | 60-100 THB |
-| 🍚 **Gaeng Hang Lay** | Burmese-influenced pork curry     | SP Chicken        | 60-100 THB |
+| 🍛 **Khao Soi**       | Northern curry noodles - MUST TRY | Khao Soi Khun Yai | 50-80 THB (~£1-£2)  |
+| 🌭 **Sai Oua**        | Northern spicy sausage            | Warorot Market    | 40-80 THB (~£1-£2)  |
+| 🥬 **Larb Moo**       | Spicy minced pork salad           | Huen Phen         | 60-100 THB (~£1.5-£2.5) |
+| 🍚 **Gaeng Hang Lay** | Burmese-influenced pork curry     | SP Chicken        | 60-100 THB (~£1.5-£2.5) |
 
 ### Pai
 | Dish                  | Description                     | Where to Find                 | Price       |
 | --------------------- | ------------------------------- | ----------------------------- | ----------- |
-| 🥐 **Banana Pancakes** | Backpacker breakfast classic    | Walking Street stalls         | 40-60 THB   |
-| 🍵 **Mountain Coffee** | Local Arabica beans             | Art in Chai, Pai coffee shops | 60-100 THB  |
-| 🍔 **Western Fusion**  | Excellent international options | Na's Kitchen, Witching Well   | 100-200 THB |
+| 🥐 **Banana Pancakes** | Backpacker breakfast classic    | Walking Street stalls         | 40-60 THB (~£1-£1.5)   |
+| 🍵 **Mountain Coffee** | Local Arabica beans             | Art in Chai, Pai coffee shops | 60-100 THB (~£1.5-£2.5)  |
+| 🍔 **Western Fusion**  | Excellent international options | Na's Kitchen, Witching Well   | 100-200 THB (~£2.5-£4.5) |
 
 ### Krabi / Islands
 | Dish                    | Description                  | Where to Find                    | Price       |
 | ----------------------- | ---------------------------- | -------------------------------- | ----------- |
-| 🦐 **Fresh Seafood BBQ** | Grilled prawns, fish, squid  | Beach restaurants, night markets | 150-400 THB |
-| 🍌 **Mango Sticky Rice** | Ripe mango with coconut rice | Street vendors                   | 50-100 THB  |
-| 🥥 **Fresh Coconut**     | Straight from the shell      | Beach vendors                    | 40-60 THB   |
-| 🌶️ **Massaman Curry**    | Southern-style rich curry    | Local restaurants                | 80-150 THB  |
+| 🦐 **Fresh Seafood BBQ** | Grilled prawns, fish, squid  | Beach restaurants, night markets | 150-400 THB (~£3.5-£9) |
+| 🍌 **Mango Sticky Rice** | Ripe mango with coconut rice | Street vendors                   | 50-100 THB (~£1-£2.5)  |
+| 🥥 **Fresh Coconut**     | Straight from the shell      | Beach vendors                    | 40-60 THB (~£1-£1.5)   |
+| 🌶️ **Massaman Curry**    | Southern-style rich curry    | Local restaurants                | 80-150 THB (~£2-£3.5)  |
 
 ---
 
@@ -798,10 +798,10 @@ Your policy MUST cover:
 ### Price Guide
 | Type                 | Expected Cost         |
 | -------------------- | --------------------- |
-| 🍜 Street food meal   | 40-80 THB ($1-2.50)   |
-| 🍽️ Local restaurant   | 80-200 THB ($2.50-6)  |
-| 🏨 Tourist restaurant | 200-500 THB ($6-15)   |
-| 🍸 Rooftop bar drink  | 300-600+ THB ($9-18+) |
+| 🍜 Street food meal   | 40-80 THB (~£1-£2)   |
+| 🍽️ Local restaurant   | 80-200 THB (~£2-£4.5)  |
+| 🏨 Tourist restaurant | 200-500 THB (~£4.5-£11)   |
+| 🍸 Rooftop bar drink  | 300-600+ THB (~£7-£14+) |
 
 ### Useful Thai Phrases
 | Phrase    | Pronunciation | Meaning        |
@@ -820,9 +820,9 @@ Your policy MUST cover:
 
 | Style             | Daily Budget                 | Includes                                    |
 | ----------------- | ---------------------------- | ------------------------------------------- |
-| 🎒 **Backpacker**  | 800-1,200 THB ($23-35)       | Hostel dorm, street food, local transport   |
-| 💼 **Mid-range**   | 2,000-3,500 THB ($58-100)    | Private room, restaurants, occasional tours |
-| 💎 **Comfortable** | 4,500-7,000+ THB ($130-200+) | Nice hotels, all tours, dining out          |
+| 🎒 **Backpacker**  | 800-1,200 THB (~£18-£27)       | Hostel dorm, street food, local transport   |
+| 💼 **Mid-range**   | 2,000-3,500 THB (~£45-£80)    | Private room, restaurants, occasional tours |
+| 💎 **Comfortable** | 4,500-7,000+ THB (~£100-£160+) | Nice hotels, all tours, dining out          |
 
 ## Cost Breakdown by Category
 
@@ -839,19 +839,19 @@ Your policy MUST cover:
 ### 🍜 Food (per day)
 | Style                   | Cost          |
 | ----------------------- | ------------- |
-| Street food only        | 150-300 THB   |
-| Mix street + restaurant | 300-600 THB   |
-| Restaurants + drinks    | 600-1,500 THB |
+| Street food only        | 150-300 THB (~£3.5-£7)   |
+| Mix street + restaurant | 300-600 THB (~£7-£14)   |
+| Restaurants + drinks    | 600-1,500 THB (~£14-£34) |
 
 ### 🎫 Activities
 | Activity                    | Cost Range       |
 | --------------------------- | ---------------- |
-| Temple entrance             | 50-500 THB       |
-| Full-day tour               | 1,000-3,000 THB  |
-| Cooking class               | 1,000-2,000 THB  |
-| Rock climbing (half-day)    | 1,000-2,500 THB  |
-| Diving (discover)           | 2,500-4,000 THB  |
-| Floating bungalow overnight | 2,500-5,000+ THB |
+| Temple entrance             | 50-500 THB (~£1-£11)       |
+| Full-day tour               | 1,000-3,000 THB (~£23-£68)  |
+| Cooking class               | 1,000-2,000 THB (~£23-£45)  |
+| Rock climbing (half-day)    | 1,000-2,500 THB (~£23-£57)  |
+| Diving (discover)           | 2,500-4,000 THB (~£57-£91)  |
+| Floating bungalow overnight | 2,500-5,000+ THB (~£57-£115+) |
 
 ---
 
@@ -870,11 +870,11 @@ Your policy MUST cover:
 | **TOTAL**                   | **$2,370-4,640** |
 
 ### Money Tips
-- 💳 **ATMs:** 220 THB fee per withdrawal (use accounts that reimburse fees)
+- 💳 **ATMs:** 220 THB (~£5) fee per withdrawal (use accounts that reimburse fees)
 - 💱 **Exchange:** Bangkok has best rates (SuperRich, Vasu)
 - 📱 **Grab/Bolt:** Linked credit cards work well
 - 💵 **Cash:** Needed for street food, longtails, small shops
-- 🏧 **Daily limit:** Most ATMs limit 20,000-30,000 THB per transaction
+- 🏧 **Daily limit:** Most ATMs limit 20,000-30,000 THB (~£455-£680) per transaction
 
 ---
 
@@ -959,7 +959,7 @@ Your policy MUST cover:
 
 | Tip                         | Why                                                             |
 | --------------------------- | --------------------------------------------------------------- |
-| 🎒 **Pack light**            | Laundry is cheap (40-60 THB/kg). You'll buy things.             |
+| 🎒 **Pack light**            | Laundry is cheap (40-60 THB (~£1-£1.5)/kg). You'll buy things.             |
 | 👟 **Shoes off**             | You'll remove shoes constantly - easy slip-on sandals essential |
 | 🧴 **Toiletries available**  | 7-Eleven everywhere - don't overpack these                      |
 | 📦 **Leave room**            | You'll buy clothes, souvenirs, snacks                           |
